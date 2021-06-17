@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, my name is Ray, and I'm a recovering auditor.
 
 <!--
 **RaydioAM/RaydioAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
